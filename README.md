@@ -1,10 +1,25 @@
-- 👋 Hi, Print("I am Musa")
-- ("🖤") I love programing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-musa-py/musa-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mensaje</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #FDF0E7;
+      color: #333;
+      font-family: sans-serif;
+    }
+    h1 {
+      font-size: 3em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Te quiero</h1>
+</body>
+</html>
